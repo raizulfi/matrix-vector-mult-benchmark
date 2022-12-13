@@ -28,7 +28,6 @@ make time; ./main_b_time.out
 ```
 ## results:
 ![image](https://user-images.githubusercontent.com/114371959/207394491-df605e3a-ebbd-45f9-8683-16c0391b6401.png)
-
 ![image](https://user-images.githubusercontent.com/114371959/207406508-73092152-e1a1-4100-b40d-b3d3a7931d1f.png)
 
 ## Space complexity
